@@ -22,4 +22,8 @@
 - Custom themes and code snippets
 
 📬 Always open to feedback, collaboration, and learning more. Let’s build something epic together!
+🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord)](https://discord.com/users/pritishdash)
+
 
