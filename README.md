@@ -23,7 +23,7 @@
 
 📬 Always open to feedback, collaboration, and learning more. Let’s build something epic together!
 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/pritish-dash-1a1a5b294/)  
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord)](https://discord.com/users/pritishdash)
 
 
